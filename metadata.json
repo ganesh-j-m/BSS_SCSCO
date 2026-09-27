@@ -1,0 +1,6 @@
+{
+  "name": "SC(S)CO Digital Campus - Shri Chhatrapati Shivaji College Omerga",
+  "description": "Official institutional portal, comprehensive ERP, and digital campus management system for Shri Chhatrapati Shivaji College, Omerga (Bharat Shikshan Sanstha).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
